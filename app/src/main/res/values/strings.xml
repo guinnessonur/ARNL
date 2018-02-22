@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">A.R.N.L</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_scrolling">LibraryActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- For MainActivity -->
+    <string name="chooseBook">Choose From Library</string>
+    <string name="settingsBtn">Settings</string>
+    <string name="exitBtn">Exit</string>
+
+    <!-- For SettingsActivity -->
+    <string-array name="pageType">
+        <item>Warm</item>
+        <item>Normal</item>
+        <item>Cold</item>
+    </string-array>
+    <string name="musicOnOffBtn">Play Sounds</string>
+    <string name="backBtn">Back to Main Menu</string>
+
+    <!-- For LibraryActivity -->
+
+    <string name="bookName">Empty Book Name</string>
+
+
+</resources>
